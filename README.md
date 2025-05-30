@@ -38,6 +38,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
+![Apache Superset](https://img.shields.io/badge/Superset-1A73E8?style=for-the-badge&logo=apache-superset&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/Greenplum-00843D?style=for-the-badge&logo=postgresql&logoColor=white)
